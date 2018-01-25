@@ -593,6 +593,20 @@ aside a.buttonlarge {
   color: #fff;
 }
 
+aside a.buttonxlarge {
+  display: block;
+  width: 304px;
+  height: 336px;
+  padding-top: 15px;
+  padding-left: 14px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  font-size: 18px;
+  line-height: 1.1;
+  background: transparent url(../images/blue_button_x_large.png) 0 0 no-repeat;
+  color: #fff;
+}
+
 header a.buttonabout {
   width: 140px;
   height: 40px;
